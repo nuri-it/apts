@@ -15,6 +15,7 @@ This repository contains a Bash script designed to streamline the installation o
 
 
    ```
+   sudo apt install git -y
    git clone https://github.com/nuri-it/apts.git
    cd apts
    chmod +x install_apps.sh
